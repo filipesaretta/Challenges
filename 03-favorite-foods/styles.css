@@ -1,0 +1,11 @@
+html {
+  font-size: 1.6rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2em;
+}
