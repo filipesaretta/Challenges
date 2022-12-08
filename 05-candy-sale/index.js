@@ -23,4 +23,5 @@ function getSaleItems(data){
     return onlyCandies
 };
 
+console.log(getSaleItems(products))
 
