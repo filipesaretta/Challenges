@@ -1,4 +1,4 @@
-## Repository to collect challenges to practice.
+## Repository to collect challenges i've done to practice.
 
-- [JavaScriptmas]()
-- [Roman Converter]()
+- [JavaScriptmas](https://github.com/filipesaretta/Challenges/tree/main/JavaScriptmas)
+- [Roman Converter](https://github.com/filipesaretta/Challenges/tree/main/ConvertToRoman)
